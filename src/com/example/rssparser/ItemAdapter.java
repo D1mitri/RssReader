@@ -67,7 +67,7 @@ public class ItemAdapter extends BaseAdapter {
 	    return view;
 	  }
 
-	  // товар по позиции
+	  // item по позиции
 	  Item getItems(int position) {
 	    return ((Item) getItem(position));
 	  }
