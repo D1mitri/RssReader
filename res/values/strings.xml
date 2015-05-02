@@ -4,5 +4,8 @@
     <string name="app_name">RssParser</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="ted">TED</string>
+    <string name="ted_ideas">Ideas worth spreading*</string>
+    <string name="remark">*They are not all perfect.\nBut they are all short.</string>
 
 </resources>
