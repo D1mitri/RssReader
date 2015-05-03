@@ -83,7 +83,7 @@ public class MainActivity extends Activity implements  OnItemClickListener {
         protected void onPostExecute(String result) {
 
             //Open video in new Activity
-        	Intent intent = new Intent(MainActivity.this, WebActivity.class);
+        	Intent intent = new Intent(MainActivity.this, VideoActivity.class);
         	intent.putExtra("http", file);
         	startActivity(intent);
         }
